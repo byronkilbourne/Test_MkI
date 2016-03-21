@@ -11,9 +11,17 @@ m.drawcoastlines()
 m.drawcountries(linewidth=2)
 m.drawstates(color='b')
 #m.drawcounties(color='r')
-#m.fillcontinents()
 m.etopo()
 #m.bluemarble()
 plt.title('Basemap Tutorial')
 plt.show()
+#m.bluemarble()
+#m.bluemarble()
+
+plt.title('Basemap Tutorial')
+plt.title('Basemap Tutorial')
+plt.title('Basemap Tutorial')
+
+
+
 
